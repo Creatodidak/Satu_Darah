@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755679751807",
+    "project_id": "satudarah-2b29c",
+    "storage_bucket": "satudarah-2b29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755679751807:android:08031eca984ce6167c594a",
+        "android_client_info": {
+          "package_name": "id.creatodidak.satudarah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM7DnXpX2gbAHRn-6QK1byqsovfuRZkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

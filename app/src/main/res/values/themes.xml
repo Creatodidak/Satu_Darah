@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SatuDarah" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/red</item>
+        <item name="android:fontFamily">@font/os</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Theme.SatuDarah" parent="Base.Theme.SatuDarah" />
+</resources>
